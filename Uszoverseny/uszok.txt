@@ -1,0 +1,3 @@
+001;Kenyeres László; 1969.01.01;Magyarország;2:05.18
+002;Hans Regenkurt; 1988.05.23;Németország;1:55.23
+003;Jan Olej; 1976.06.18;Szlovákia;1:49.59
