@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\Diakok\Diakok\bin\Debug\Diakok.exe.config
+C:\Users\user\source\repos\Diakok\Diakok\bin\Debug\Diakok.exe
+C:\Users\user\source\repos\Diakok\Diakok\bin\Debug\Diakok.pdb
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.Form1.resources
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.Properties.Resources.resources
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.exe
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.pdb
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\bin\Debug\Diakok.exe.config
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\bin\Debug\Diakok.exe
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\bin\Debug\Diakok.pdb
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.csproj.AssemblyReference.cache
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.Diakok.resources
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.Properties.Resources.resources
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.csproj.GenerateResource.cache
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.csproj.CoreCompileInputs.cache
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.exe
+C:\Users\Dergecz Máté\Desktop\C-Sharp-WinForms-main\Diakok\Diakok\obj\Debug\Diakok.pdb
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\bin\Debug\Diakok.exe.config
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\bin\Debug\Diakok.exe
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\bin\Debug\Diakok.pdb
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.csproj.AssemblyReference.cache
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.Diakok.resources
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.Properties.Resources.resources
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.csproj.GenerateResource.cache
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.csproj.CoreCompileInputs.cache
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.exe
+C:\Users\Dergecz Máté\Desktop\Diakok\Diakok\obj\Debug\Diakok.pdb
